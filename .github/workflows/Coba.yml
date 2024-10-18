@@ -6,7 +6,7 @@
     <title>Ujian Pilihan Ganda</title>
     <style>
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Arial',
             color: #333;
             text-align: center;
             margin: 0;
